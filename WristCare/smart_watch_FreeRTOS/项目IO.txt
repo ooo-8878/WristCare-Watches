@@ -1,0 +1,24 @@
+1.1.69屏幕：显示芯片 :   CS      PG6
+				        SCK    PB3
+ 				        MOSI  PB5
+				        BL       PB4
+				        DC      PG7
+      				        RST     PG8
+
+                  触摸芯片：  SCL      PD6
+ 				     SDA     PD7
+				     RST      PC6
+ 				     IRQ      PC8
+
+2.DHT11:    PG9
+
+
+3.心率血氧MAX10302:   SCL    PC7
+  		                        SDA   PC9
+		                        INI     PA4
+
+4.蓝牙模块bt24     STA  PB7
+  		              RX    PB10
+   		              TX    PB11
+
+5.震动马达模块： PB1

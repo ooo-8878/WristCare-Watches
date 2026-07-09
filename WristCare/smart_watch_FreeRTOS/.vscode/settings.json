@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.encoding": "gb2312",
+    "files.associations": {
+        "includes.h": "c",
+        "stm32f4xx.h": "c",
+        "myrtc.h": "c",
+        "led.h": "c"
+    }
+}
